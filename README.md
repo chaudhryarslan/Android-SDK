@@ -41,7 +41,7 @@ allprojects {
 ```
 
 dependencies {
-    compile group: "com.navisens", name: "motiondnaapi", version: "1.2.1-SNAPSHOT", changing: true
+    compile group: "com.navisens", name: "motiondnaapi", version: "1.3.0-SNAPSHOT", changing: true
     compile 'org.altbeacon:android-beacon-library:2.+'
     ...
 }
