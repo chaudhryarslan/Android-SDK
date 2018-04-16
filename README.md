@@ -29,9 +29,12 @@ https://oss.sonatype.org/content/groups/public/com/navisens/motiondnaapi/
 allprojects {
     repositories {
         ...
-        maven {
-            url 'https://oss.sonatype.org/content/groups/public'
-        }
+        
+        // the repo below is needed if you want to use version before 1.3.0-SNAPSHOT
+        //maven {
+        //    url 'https://oss.sonatype.org/content/groups/public'
+        //}
+        
         maven { 
             url 'https://maven.fabric.io/public'
         }
@@ -43,7 +46,9 @@ allprojects {
 ```
 
 dependencies {
-    compile group: "com.navisens", name: "motiondnaapi", version: "1.3.0-SNAPSHOT", changing: true
+    compile group: "com.navisens", name: "motiondnaapi", version: "1.3.0", changing: true
+    // sdk version before 1.3.0-SNAPSHOT is only distributed in SNAPSHOT
+    //compile group: "com.navisens", name: "motiondnaapi", version: "1.3.0-SNAPSHOT", changing: true
     compile 'org.altbeacon:android-beacon-library:2.+'
     ...
 }
