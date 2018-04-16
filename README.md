@@ -1,4 +1,6 @@
 [![Sonatype Nexus (Snapshots)](https://img.shields.io/nexus/s/https/oss.sonatype.org/com.navisens/motiondnaapi.svg?style=plastic)](https://oss.sonatype.org/content/groups/public/com/navisens/motiondnaapi/)
+[![Sonatype Nexus (Releases)](https://img.shields.io/nexus/r/https/oss.sonatype.org/com.navisens/motiondnaapi.svg?style=plastic)](https://oss.sonatype.org/content/repositories/releases/com/navisens/motiondnaapi/)
+
 
 ### Quick Start
 
