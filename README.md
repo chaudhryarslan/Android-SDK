@@ -46,7 +46,7 @@ allprojects {
 ```
 
 dependencies {
-    compile group: "com.navisens", name: "motiondnaapi", version: "1.6.0", changing: true
+    compile group: "com.navisens", name: "motiondnaapi", version: "1.6.1", changing: true
     // sdk version before 1.3.0-SNAPSHOT is only distributed in SNAPSHOT
     // From 1.6.0 we do not support SNAPSHOT version anymore
     //compile group: "com.navisens", name: "motiondnaapi", version: "1.5.1-SNAPSHOT", changing: true
