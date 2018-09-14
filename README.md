@@ -9,13 +9,17 @@ The Navisens™ motionDNA™ SDK is a software-only location platform that opera
 For any technical questions please contact us at: support@navisens.com.
 
 
-### TLDR, I just want to run it!
+### ANDROID
 
-Clone [android-app-helloworld](https://github.com/navisens/android-app-helloworld).
+Getting to work:
 
-### How does it work
+[Hello World](https://github.com/navisens/android-app-helloworld): quick start and intro for our native SDK.
 
-Please refer to our [NaviDoc](https://github.com/navisens/NaviDocs/blob/master/API.Android.md#api) for full documentation.
+[NaviDocs](https://github.com/navisens/NaviDocs/blob/master/API.Android.md): advanced native SDK documentation.
+
+[Plugins](https://github.com/navisens/Android-Plugin): quick start for data visualization services using our plugins.
+
+[ReactNative](https://github.com/navisens/react-native-helloworld): integration with ReactNative.
 
 
 ### aar download
