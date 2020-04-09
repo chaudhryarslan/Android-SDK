@@ -11,7 +11,6 @@ For any technical questions please contact us at: support@navisens.com.
 ### Getting to Work
 
 * [Hello World](https://github.com/navisens/android-app-helloworld): quick start and intro for our native SDK
-* [Plugins](https://github.com/navisens/Android-Plugin): quick start for data visualization services using our plugins
 * [Documentation](https://github.com/navisens/NaviDocs/blob/master/API.Android.md): advanced native SDK documentation
 * [ArcGIS](https://github.com/navisens/android-arcgis-motiondna-integration): integration with ArcGIS visualization
 * [MapBox](https://github.com/navisens/android-mapbox-motiondna-integration): integration with MapBox visualization
